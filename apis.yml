@@ -31,7 +31,7 @@ x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-reason: Acqui-hired by LifeLock in August 2015 (~$12.8M); product wound down and bityota.com no longer resolves.
 x-enrichment: 'none-possible: defunct company, no live domain/API/docs/repos/SDKs as of 2026-07-18'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
