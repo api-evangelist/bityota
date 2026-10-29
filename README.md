@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-BitYota is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: a16z
+BitYota was a Data-Warehouse-as-a-Service (DWaaS) startup founded around 2011 in Santa Clara, California, offering a SaaS analytics data warehouse that ran on top of Amazon Web Services and Rackspace infrastructure and natively queried semi-structured JSON data. The company's team of data-processing engineers was acqui-hired by LifeLock in August 2015 for approximately $12.8 million, and the standalone BitYota product and company were subsequently wound down. The primary domain bityota.com no longer resolves (no DNS records), no public API, developer portal, documentation, source repositories, or client SDKs survive, and there is no active API surface for the enrichment pipeline to harvest. This profile is retained for historical/network completeness and is flagged defunct.
+
+**Areas:** Company · Data Warehouse · Analytics · Big Data · Data as a Service · JSON · Defunct
+
+## BitYota on APIs.io (historical record)
+
+Everything profiled for BitYota is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bityota/](https://apis.io/providers/bityota/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BitYota: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bityota/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
